@@ -1,3 +1,6 @@
+Changes:
+edited flask_nav/__init__.py to replace collections.MutableMapping with collections.abc.MutableMapping to make this compatible with python 3.10
+
 Flask-Nav
 =========
 
